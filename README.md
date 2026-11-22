@@ -1,8 +1,8 @@
 # Sunday 22 November 2026 — The World in One Page
 
-[![news-image-20261122](https://img.shields.io/badge/make.fun-news--image--20261122-blue)](https://make.fun/c/news-image-20261122)
-[![Prize $100](https://img.shields.io/badge/prize-%24100-gold)](https://make.fun/c/news-image-20261122)
-[![Deadline 24 Nov 2026](https://img.shields.io/badge/deadline-24%20Nov%202026%2007%3A00%20WIB-red)](https://make.fun/c/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/labibhanafi/news-image-20261122-entry/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/labibhanafi/news-image-20261122-entry/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 Entry for the make.fun competition
 [Sum up 22 November's world news in one image](https://make.fun/c/news-image-20261122)
